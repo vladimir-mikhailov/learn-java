@@ -1,7 +1,5 @@
 // 3. Реализовать простой калькулятор
 
-package Seminar01;
-
 import java.util.Scanner;
 
 public class SimpleCalc {

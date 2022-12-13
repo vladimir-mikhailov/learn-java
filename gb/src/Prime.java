@@ -1,7 +1,5 @@
 //2. Вывести все простые числа от 1 до 1000
 
-package Seminar01;
-
 public class Prime {
     public static void main(String[] args) {
         getPrimes(1000);
