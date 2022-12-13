@@ -1,7 +1,8 @@
 // 1. Вычислить n-ое треугольного число(сумма чисел от 1 до n),
 // n! (произведение чисел от 1 до n)
+package Seminar01;
 
-public class S01_Task1_Factorial_and_Triangle {
+public class FactorialTriangle {
     public static void main(String[] args) {
         System.out.println(factorial(4));
         System.out.println(triangle(4));

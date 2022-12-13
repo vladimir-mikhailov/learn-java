@@ -1,8 +1,10 @@
 // 3. Реализовать простой калькулятор
 
+package Seminar01;
+
 import java.util.Scanner;
 
-public class S01_Task3_Calc {
+public class SimpleCalc {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

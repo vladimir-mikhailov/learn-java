@@ -1,10 +1,10 @@
-//*+Задано уравнение вида q + w = e, q, w, e >= 0. Некоторые цифры могут быть заменены знаком вопроса,
+package Seminar01;//*+Задано уравнение вида q + w = e, q, w, e >= 0. Некоторые цифры могут быть заменены знаком вопроса,
 // например 2? + ?5 = 69. Требуется восстановить выражение до верного равенства. Предложить хотя бы одно
 // решение или сообщить, что его нет.
 
 import java.util.Scanner;
 
-public class S01_Task4_Restore_Equation {
+public class RestoreEquation {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Введите уравнение вида \"2? + ?5 = 69\": ");
