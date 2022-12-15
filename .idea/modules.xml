@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/GB/S02_T01_JsonToSql/JsonToSql.iml" filepath="$PROJECT_DIR$/GB/S02_T01_JsonToSql/JsonToSql.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S02_T03_JsonToString/JsonToString.iml" filepath="$PROJECT_DIR$/GB/S02_T03_JsonToString/JsonToString.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S03_T01_MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/GB/S03_T01_MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S03_T03_MinMaxAvg/MinMaxAvg.iml" filepath="$PROJECT_DIR$/GB/S03_T03_MinMaxAvg/MinMaxAvg.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S01_T02_Prime/Prime.iml" filepath="$PROJECT_DIR$/GB/S01_T02_Prime/Prime.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S01_T04_RestoreEquation/RestoreEquation.iml" filepath="$PROJECT_DIR$/GB/S01_T04_RestoreEquation/RestoreEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S01_T03_SimpleCalc/SimpleCalc.iml" filepath="$PROJECT_DIR$/GB/S01_T03_SimpleCalc/SimpleCalc.iml" />
