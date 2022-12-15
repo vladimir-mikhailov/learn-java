@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GB/S02_T02_BubbleLog/BubbleLog.iml" filepath="$PROJECT_DIR$/GB/S02_T02_BubbleLog/BubbleLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S03_T02_DeleteEven/DeleteEven.iml" filepath="$PROJECT_DIR$/GB/S03_T02_DeleteEven/DeleteEven.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S01_T01_FactorialTriangle/FactorialTriangle.iml" filepath="$PROJECT_DIR$/GB/S01_T01_FactorialTriangle/FactorialTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S02_T01_JsonToSql/JsonToSql.iml" filepath="$PROJECT_DIR$/GB/S02_T01_JsonToSql/JsonToSql.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S02_T03_JsonToString/JsonToString.iml" filepath="$PROJECT_DIR$/GB/S02_T03_JsonToString/JsonToString.iml" />
