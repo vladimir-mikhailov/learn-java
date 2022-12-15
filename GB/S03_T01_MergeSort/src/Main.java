@@ -4,39 +4,40 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        
+
         int listSize = 67;
         // Максимальный размер куска массива, который можно отсортировать быстрой сортировкой.
-        int quickSortableSize = 5;
-        
-        ArrayList<Integer> list = new ArrayList<>();
+        // Если установить "1", то будет только сортировка слиянием.
+        int chunkSize = 1;
+
+        ArrayList<Integer> list = new ArrayList<>(listSize);
         for (int i = 0; i < listSize; i++) {
             list.add((int) (Math.random() * 100));
         }
         System.out.println(list);
 
-        for (int ch = quickSortableSize; ch < listSize; ch *= 2) {
-            ArrayList<Integer> buffer = new ArrayList<>(listSize);
-            for (int l = 0; l < listSize - 1; l += ch * 2) {
-                ArrayList<Integer> left, right;
+        for (int ch = chunkSize; ch < listSize; ch *= 2) {
+                ArrayList<Integer> buffer = new ArrayList<>(listSize);
+                for (int l = 0; l < listSize; l += ch * 2) {
+                    ArrayList<Integer> left, right;
 
-                if (ch >= listSize - 1 - l) {
-                    left = new ArrayList<>(list.subList(l, listSize));
-                    if (ch == quickSortableSize) {
-                        left.sort(null);
+                    if (ch >= listSize - 1 - l) {
+                        left = new ArrayList<>(list.subList(l, listSize));
+                        if (ch == chunkSize && left.size() > 1) {
+                            left.sort(null);
+                        }
+                        buffer.addAll(left);
+                    } else {
+                        left = new ArrayList<>(list.subList(l, l + ch));
+                        right = new ArrayList<>(list.subList(l + ch, Math.min(l + ch * 2, listSize)));
+                        if (ch == chunkSize) {
+                            if (left.size() > 1) left.sort(null);
+                            if (right.size() > 1) right.sort(null);
+                        }
+                        buffer.addAll(mergeSort(left, right));
                     }
-                    buffer.addAll(left);
-                } else {
-                    left = new ArrayList<>(list.subList(l, l + ch));
-                    right = new ArrayList<>(list.subList(l + ch, Math.min(l + ch * 2, listSize)));
-                    if (ch == quickSortableSize) {
-                        left.sort(null);
-                        right.sort(null);
-                    }
-                    buffer.addAll(mergeSort(left, right));
                 }
-            }
-            list = new ArrayList<>(buffer);
+                list = new ArrayList<>(buffer);
         }
         System.out.println(list);
 
