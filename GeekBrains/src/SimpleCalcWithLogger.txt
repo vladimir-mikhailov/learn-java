@@ -1,2 +1,0 @@
-дек. 13, 2022 11:14:45 PM SimpleCalcWithLogger main
-INFO: 13.0 + 13.0 = 26,00

@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GeekBrains/GeekBrains.iml" filepath="$PROJECT_DIR$/GeekBrains/GeekBrains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S02_T02_BubbleLog/BubbleLog.iml" filepath="$PROJECT_DIR$/GB/S02_T02_BubbleLog/BubbleLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S01_T01_FactorialTriangle/FactorialTriangle.iml" filepath="$PROJECT_DIR$/GB/S01_T01_FactorialTriangle/FactorialTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S02_T01_JsonToSql/JsonToSql.iml" filepath="$PROJECT_DIR$/GB/S02_T01_JsonToSql/JsonToSql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S02_T03_JsonToString/JsonToString.iml" filepath="$PROJECT_DIR$/GB/S02_T03_JsonToString/JsonToString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S03_T01_MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/GB/S03_T01_MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S01_T02_Prime/Prime.iml" filepath="$PROJECT_DIR$/GB/S01_T02_Prime/Prime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S01_T04_RestoreEquation/RestoreEquation.iml" filepath="$PROJECT_DIR$/GB/S01_T04_RestoreEquation/RestoreEquation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S01_T03_SimpleCalc/SimpleCalc.iml" filepath="$PROJECT_DIR$/GB/S01_T03_SimpleCalc/SimpleCalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S02_T04_SimpleCalcWithLogger/SimpleCalcWithLogger.iml" filepath="$PROJECT_DIR$/GB/S02_T04_SimpleCalcWithLogger/SimpleCalcWithLogger.iml" />
     </modules>
   </component>
 </project>

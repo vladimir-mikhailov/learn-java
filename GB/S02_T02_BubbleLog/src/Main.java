@@ -4,15 +4,13 @@
 
 import java.io.IOException;
 import java.util.Arrays;
-import java.util.logging.FileHandler;
 import java.util.logging.Logger;
-import java.util.logging.SimpleFormatter;
 
-public class BubbleLog {
+public class Main {
     public static void main(String[] args) throws IOException {
-        String logFile = "GeekBrains/src/BubbleLog.txt";
+        String logFile = "GB/S02_T02_BubbleLog/log.txt";
         int[] arr = {2, 1, 5, 3, 10, 4, 9, 6, 8, 7, 0};
-        SortAndLog(getLogger(logFile), arr);
+        SortAndLog(MyLogger.getLogger(logFile), arr);
     }
 
     private static void SortAndLog(Logger logger, int[] arr) {
@@ -36,11 +34,5 @@ public class BubbleLog {
         }
     }
 
-    public static Logger getLogger(String logFile) throws IOException {
-        Logger logger = Logger.getLogger(BubbleLog.class.getName());
-        FileHandler fh = new FileHandler(logFile);
-        logger.addHandler(fh);
-        fh.setFormatter(new SimpleFormatter());
-        return logger;
-    }
+
 }

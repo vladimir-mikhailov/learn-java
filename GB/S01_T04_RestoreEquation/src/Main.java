@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class RestoreEquation {
+public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Введите уравнение вида \"2? + ?5 = 69\": ");
