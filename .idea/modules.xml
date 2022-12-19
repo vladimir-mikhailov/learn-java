@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GB/S04_CW_T01_ArrayVsLinked/ArrayVsLinked.iml" filepath="$PROJECT_DIR$/GB/S04_CW_T01_ArrayVsLinked/ArrayVsLinked.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S02_T02_BubbleLog/BubbleLog.iml" filepath="$PROJECT_DIR$/GB/S02_T02_BubbleLog/BubbleLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S04_CW_T04_CustomStackClass/CustomStackClass.iml" filepath="$PROJECT_DIR$/GB/S04_CW_T04_CustomStackClass/CustomStackClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S03_T02_DeleteEven/DeleteEven.iml" filepath="$PROJECT_DIR$/GB/S03_T02_DeleteEven/DeleteEven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S04_CW_T03_DequeQueue/DequeQueue.iml" filepath="$PROJECT_DIR$/GB/S04_CW_T03_DequeQueue/DequeQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S01_T01_FactorialTriangle/FactorialTriangle.iml" filepath="$PROJECT_DIR$/GB/S01_T01_FactorialTriangle/FactorialTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S02_T01_JsonToSql/JsonToSql.iml" filepath="$PROJECT_DIR$/GB/S02_T01_JsonToSql/JsonToSql.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S02_T03_JsonToString/JsonToString.iml" filepath="$PROJECT_DIR$/GB/S02_T03_JsonToString/JsonToString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S04_CW_T02_LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/GB/S04_CW_T02_LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S03_T01_MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/GB/S03_T01_MergeSort/MergeSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S03_T03_MinMaxAvg/MinMaxAvg.iml" filepath="$PROJECT_DIR$/GB/S03_T03_MinMaxAvg/MinMaxAvg.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S01_T02_Prime/Prime.iml" filepath="$PROJECT_DIR$/GB/S01_T02_Prime/Prime.iml" />
