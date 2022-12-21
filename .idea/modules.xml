@@ -8,15 +8,22 @@
       <module fileurl="file://$PROJECT_DIR$/GB/S04_CW_T04_CustomStackClass/CustomStackClass.iml" filepath="$PROJECT_DIR$/GB/S04_CW_T04_CustomStackClass/CustomStackClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S03_T02_DeleteEven/DeleteEven.iml" filepath="$PROJECT_DIR$/GB/S03_T02_DeleteEven/DeleteEven.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S04_CW_T03_DequeQueue/DequeQueue.iml" filepath="$PROJECT_DIR$/GB/S04_CW_T03_DequeQueue/DequeQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S05_T04S_EightQueens/EightQueens.iml" filepath="$PROJECT_DIR$/GB/S05_T04S_EightQueens/EightQueens.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S01_T01_FactorialTriangle/FactorialTriangle.iml" filepath="$PROJECT_DIR$/GB/S01_T01_FactorialTriangle/FactorialTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S05_T01_HashMapPhoneBook/HashMapPhoneBook.iml" filepath="$PROJECT_DIR$/GB/S05_T01_HashMapPhoneBook/HashMapPhoneBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S05_T03_HeapSort/HeapSort.iml" filepath="$PROJECT_DIR$/GB/S05_T03_HeapSort/HeapSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S05_CW_T01_IsomorphWordsHashMap/IsomorphWordsHashMap.iml" filepath="$PROJECT_DIR$/GB/S05_CW_T01_IsomorphWordsHashMap/IsomorphWordsHashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S02_T01_JsonToSql/JsonToSql.iml" filepath="$PROJECT_DIR$/GB/S02_T01_JsonToSql/JsonToSql.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S02_T03_JsonToString/JsonToString.iml" filepath="$PROJECT_DIR$/GB/S02_T03_JsonToString/JsonToString.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S04_CW_T02_LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/GB/S04_CW_T02_LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S04_T01_LinkedListReverse/LinkedListReverse.iml" filepath="$PROJECT_DIR$/GB/S04_T01_LinkedListReverse/LinkedListReverse.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S03_T01_MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/GB/S03_T01_MergeSort/MergeSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S03_T03_MinMaxAvg/MinMaxAvg.iml" filepath="$PROJECT_DIR$/GB/S03_T03_MinMaxAvg/MinMaxAvg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S05_CW_T02_PairedBracesHashMap/PairedBracesHashMap.iml" filepath="$PROJECT_DIR$/GB/S05_CW_T02_PairedBracesHashMap/PairedBracesHashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S05_T02_PopularityList/PopularityList.iml" filepath="$PROJECT_DIR$/GB/S05_T02_PopularityList/PopularityList.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S01_T02_Prime/Prime.iml" filepath="$PROJECT_DIR$/GB/S01_T02_Prime/Prime.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S01_T04_RestoreEquation/RestoreEquation.iml" filepath="$PROJECT_DIR$/GB/S01_T04_RestoreEquation/RestoreEquation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S05_CW_T03_RomanToArabic/RomanToArabic.iml" filepath="$PROJECT_DIR$/GB/S05_CW_T03_RomanToArabic/RomanToArabic.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S01_T03_SimpleCalc/SimpleCalc.iml" filepath="$PROJECT_DIR$/GB/S01_T03_SimpleCalc/SimpleCalc.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S02_T04_SimpleCalcWithLogger/SimpleCalcWithLogger.iml" filepath="$PROJECT_DIR$/GB/S02_T04_SimpleCalcWithLogger/SimpleCalcWithLogger.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S04_T03S_UndoCalc/UndoCalc.iml" filepath="$PROJECT_DIR$/GB/S04_T03S_UndoCalc/UndoCalc.iml" />
