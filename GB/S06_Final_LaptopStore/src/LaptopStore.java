@@ -21,5 +21,9 @@ public class LaptopStore {
         this.laptops.add(laptop);
     }
 
+    public void remove(Laptop laptop) {
+        this.laptops.remove(laptop);
+    }
+
 
 }
