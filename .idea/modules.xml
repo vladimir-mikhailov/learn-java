@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GB/S04_CW_T01_ArrayVsLinked/ArrayVsLinked.iml" filepath="$PROJECT_DIR$/GB/S04_CW_T01_ArrayVsLinked/ArrayVsLinked.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S02_T02_BubbleLog/BubbleLog.iml" filepath="$PROJECT_DIR$/GB/S02_T02_BubbleLog/BubbleLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S06_CW_CatClass/CatClass.iml" filepath="$PROJECT_DIR$/GB/S06_CW_CatClass/CatClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S04_T02_CustomQueue/CustomQueue.iml" filepath="$PROJECT_DIR$/GB/S04_T02_CustomQueue/CustomQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S04_CW_T04_CustomStackClass/CustomStackClass.iml" filepath="$PROJECT_DIR$/GB/S04_CW_T04_CustomStackClass/CustomStackClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S03_T02_DeleteEven/DeleteEven.iml" filepath="$PROJECT_DIR$/GB/S03_T02_DeleteEven/DeleteEven.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/GB/S05_T04S_EightQueens/EightQueens.iml" filepath="$PROJECT_DIR$/GB/S05_T04S_EightQueens/EightQueens.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S01_T01_FactorialTriangle/FactorialTriangle.iml" filepath="$PROJECT_DIR$/GB/S01_T01_FactorialTriangle/FactorialTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S05_T01_HashMapPhoneBook/HashMapPhoneBook.iml" filepath="$PROJECT_DIR$/GB/S05_T01_HashMapPhoneBook/HashMapPhoneBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GB/S06_CW_HashSets/HashSets.iml" filepath="$PROJECT_DIR$/GB/S06_CW_HashSets/HashSets.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S05_T03_HeapSort/HeapSort.iml" filepath="$PROJECT_DIR$/GB/S05_T03_HeapSort/HeapSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S05_CW_T01_IsomorphWordsHashMap/IsomorphWordsHashMap.iml" filepath="$PROJECT_DIR$/GB/S05_CW_T01_IsomorphWordsHashMap/IsomorphWordsHashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/GB/S02_T01_JsonToSql/JsonToSql.iml" filepath="$PROJECT_DIR$/GB/S02_T01_JsonToSql/JsonToSql.iml" />
